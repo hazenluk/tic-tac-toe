@@ -1,0 +1,10 @@
+[package]
+name = "tic-tac-toe_minimax"
+version = "0.1.0"
+authors = ["Lukas Hazen-Bushbaker <hazenluk@umich.edu>"]
+edition = "2018"
+description = "A first attempt using Rust. Tic-Tac-Toe vs the computer using a minimax algorithm."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
